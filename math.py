@@ -7,7 +7,7 @@ return x - y
 
 #Multiply function
 def multiply(x,y):
-pass
+  return x*y
 #devide function
 def divide(x,y):
 pass
